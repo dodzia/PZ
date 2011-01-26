@@ -1,0 +1,12 @@
+Obecny stan projektu.
+
+Zrobione:
+	
+     	- format wyœwietlania og³oszeñ
+        - format wyœwietlania wizytowki firmy, edycji wizytowki	
+        - profil firmy
+        - potwierdzenie usuwania, aplikowania, rezygnowania
+        - walidacja przy rejestracji, przy tworzeniu/edycji profilu firmy, przy tworzeniu/edycji cv
+        - walidacja w3c (zminimalizowana iloœæ b³êdów i ostrze¿eñ)
+        - rejestracja potwierdzana linkiem aktywacyjnym (bez wysylania maila
+        - paginacja og³oszeñ
